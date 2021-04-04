@@ -1,0 +1,34 @@
+{
+  "name": "Burning Tokens",
+  "logoURI": "https://github.com/twitter/twemoji/blob/master/assets/72x72/1f434.png",
+  "tags": {
+    "burn": {
+      "name": "Burning Tokens",
+      "description": "Tokenlist for tokens with built-in burn mechanics."
+    }
+  },
+  "timestamp": "2021-04-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "name": "FEI",
+      "decimals": 18,
+      "tags": ["burn"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+      "symbol": "DELTA",
+      "name": "DELTA",
+      "decimals": 18,
+      "tags": ["burn"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
